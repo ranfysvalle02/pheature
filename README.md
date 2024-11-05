@@ -1,5 +1,7 @@
 # pheature
 
+![](feature.png)
+
 ---
 
 **Feature Extraction Fundamentals: How to Identify and Engineer Key Features Using Simple Shapes**
