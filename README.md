@@ -63,7 +63,7 @@ One of the best ways to understand feature extraction is by visualizing feature 
 
 ### Practical Examples Using Synthetic Shapes
 
-![](https://t4.ftcdn.net/jpg/08/54/78/45/360_F_854784533_gDcHitCdAVXsIUHyisEZ4aXiEUcAEcl3.jpg)
+![](https://www.bookofthrees.com/images/stories/art/color/tcs_blank.jpg)
 
 Let’s make it concrete with some examples:
 
