@@ -75,14 +75,6 @@ With synthetic shapes, you don’t need complex datasets or high-powered machine
 
 ---
 
-### Essential Tools for Feature Engineering
-
-Getting started with feature extraction is easy with tools like **Scikit-Image** and **OpenCV** for basic image processing, and **TensorFlow** or **PyTorch** for building CNNs. Scikit-Image and OpenCV make it easy to apply edge detection and other filters, while TensorFlow and PyTorch are great for experimenting with convolutional layers that process shapes step-by-step.
-
-For beginners, using these libraries opens up a hands-on way to learn feature extraction, helping you visualize each step and see how small tweaks change the output.
-
----
-
 ### Key Takeaways and Next Steps
 
 Feature extraction doesn’t have to be complicated. By focusing on the basics with synthetic shapes, you can build a solid understanding of what makes a good feature and how it helps a model learn. Start by experimenting with edge and corner detection on simple shapes, and then try building up to more complex features. Once you get the hang of it, these foundational skills will transfer seamlessly to larger, more complex datasets.
