@@ -63,6 +63,8 @@ One of the best ways to understand feature extraction is by visualizing feature 
 
 ### Practical Examples Using Synthetic Shapes
 
+![](https://t4.ftcdn.net/jpg/05/24/74/93/360_F_524749322_vEHAaht5LQH4YX6N8E96QUk2s38O11vI.jpg)
+
 Let’s make it concrete with some examples:
 
 - **Identifying Circles, Squares, and Triangles**: Using edge and corner detection, a basic model can easily distinguish between shapes. Corners give away squares and triangles; circles, meanwhile, stand out as having no corners at all.
