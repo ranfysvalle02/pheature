@@ -53,6 +53,8 @@ To test the value of a feature, we can try training a model with and without tha
 
 ---
 
+![](feature.png)
+
 ### Bringing It All Together with Simple Visualizations
 
 One of the best ways to understand feature extraction is by visualizing feature maps—images that show which features the model focuses on. When working with simple shapes, these maps reveal how edge detection highlights boundaries, or how corner detection pinpoints key points of interest. For beginners, seeing feature maps in action helps clarify the purpose of feature extraction and shows exactly what the model “sees.”
